@@ -2,7 +2,7 @@
 
 Founder building practical AI infrastructure, agent memory, MCP systems, reliability tooling, and human-friendly software.
 
-[Personal website](https://caspianmoon.github.io/caspianmoon/) · [KNWN](https://knwn.app) · [GitHub](https://github.com/caspianmoon)
+[Personal website](https://caspianmoon.github.io/) · [KNWN](https://knwn.app) · [GitHub](https://github.com/caspianmoon)
 
 ## Selected work
 
